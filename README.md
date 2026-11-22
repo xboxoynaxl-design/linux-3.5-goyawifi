@@ -1,5 +1,6 @@
 Linux 3.5 port made for SM-T110 (goyawifi) by AnUndefinedDeveloper
 
+Kernel 3.5 (GCC 12.2)
 
 Download the source code: https://www.mediafire.com/file/5pb1plzd7qrjhno/linux-3.5-goyawifi.tar.xz/file
 
